@@ -1,3 +1,4 @@
+#!/bin/bash
 echo What do you want the project to be called
 read projectName
 npm create svelte@latest $projectName
